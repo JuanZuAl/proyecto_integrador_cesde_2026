@@ -2,13 +2,13 @@ package co.edu.cesde.ga.models;
 
 public class Person {
 
-    Long userId;
-    String code;
-    String documentNumber;
-    String firstName;
-    String lastName;
-    String email;
-    Boolean status;
+    private Long userId;
+    private String code;
+    private String documentNumber;
+    private String firstName;
+    private String lastName;
+    private String email;
+    private Boolean status;
 
     public Person() {
     }
